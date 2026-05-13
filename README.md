@@ -1,2 +1,2 @@
-# BankLoan-Dashboard
-The Bank Loan Dashboard provides a comprehensive analysis of loan applications, approvals, rejections, and repayment trends. The dashboard is built using Excel's advanced features, such as Pivot Tables, Charts, Conditional Formatting, and Data Validation, to offer interactive and visually appealing insights
+ # Financial Loan Analysis Description:
+Developed a Financial Loan Analysis Dashboard to analyze loan data and gain insights into loan applications, repayment trends, customer profiles, and loan performance. Used Excel/Power BI and data analysis techniques to examine key metrics such as loan amount, interest rate, annual income, debt-to-income ratio (DTI), loan status, home ownership, employment length, and repayment behavior. Created interactive visualizations and reports to identify good vs bad loans, customer risk patterns, and financial trends, helping support better loan approval decisions and risk management.
